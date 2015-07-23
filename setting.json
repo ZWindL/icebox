@@ -1,8 +1,8 @@
 {
-    "path":"/home/user/icebox/out",
+    "path":"/home/zwindl/projects/Blog/icebox/out",
     "md":"{path}/mark",
     "editor":"/usr/bin/vim",
     "extend":{
-        "/home/user/icebox/plugins/rss.py":"{ext} -a {action} -p {path} -n {name} -r {rename} -f {file}"
+        "/home/zwindl/projects/Blog/icebox/plugins/rss.py":"{ext} -a {action} -p {path} -n {name} -r {rename} -f {file}"
     }
 }
